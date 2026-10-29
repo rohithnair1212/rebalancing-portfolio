@@ -1,0 +1,1 @@
+# standard library only (Python 3.9+). pytest is optional for the tests.
